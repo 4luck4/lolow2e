@@ -1,43 +1,40 @@
-<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="340" height="220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#5865F2;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#7289DA;stop-opacity:1" />
     </linearGradient>
     <clipPath id="avatarClip">
-      <circle cx="60" cy="100" r="35"/>
+      <circle cx="50" cy="110" r="35"/>
     </clipPath>
   </defs>
   
   <!-- Background -->
-  <rect width="400" height="200" fill="#18191c" rx="15"/>
+  <rect width="340" height="220" fill="#18191c" rx="15"/>
   
-  <!-- Banner -->
-  <rect width="400" height="80" fill="url(#gradient)" rx="15"/>
-  <rect width="400" height="15" y="65" fill="url(#gradient)"/>
+  <!-- Banner (увеличенная высота) -->
+  <rect width="340" height="100" fill="url(#gradient)" rx="15"/>
+  <rect width="340" height="20" y="80" fill="url(#gradient)"/>
   
   <!-- Avatar Circle Background -->
-  <circle cx="60" cy="100" r="38" fill="#18191c"/>
+  <circle cx="50" cy="110" r="38" fill="#18191c"/>
   
   <!-- Avatar (placeholder) -->
-  <circle cx="60" cy="100" r="35" fill="#2f3136"/>
-  <text x="60" y="110" font-family="Arial, sans-serif" font-size="30" fill="#ffffff" text-anchor="middle">4L</text>
+  <circle cx="50" cy="110" r="35" fill="#2f3136"/>
+  <text x="50" y="120" font-family="Arial, sans-serif" font-size="30" fill="#ffffff" text-anchor="middle">4L</text>
   
   <!-- Online Status -->
-  <circle cx="85" cy="120" r="10" fill="#18191c"/>
-  <circle cx="85" cy="120" r="7" fill="#43b581"/>
+  <circle cx="75" cy="130" r="10" fill="#18191c"/>
+  <circle cx="75" cy="130" r="7" fill="#43b581"/>
   
   <!-- Username -->
-  <text x="110" y="105" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">4luck4</text>
+  <text x="25" y="170" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">4luck4</text>
   
-  <!-- Discriminator -->
-  <text x="110" y="125" font-family="Arial, sans-serif" font-size="14" fill="#b9bbbe">#0000</text>
-  
-  <!-- Status Text -->
-  <text x="110" y="145" font-family="Arial, sans-serif" font-size="12" fill="#b9bbbe">🎮 Just chilling...</text>
+  <!-- @ Username -->
+  <text x="25" y="190" font-family="Arial, sans-serif" font-size="14" fill="#b9bbbe">@4luck4</text>
   
   <!-- Discord Logo -->
-  <g transform="translate(350, 160)">
+  <g transform="translate(290, 180)">
     <path d="M13.545 2.907a13.227 13.227 0 0 0-3.257-1.011.05.05 0 0 0-.052.025c-.141.25-.297.577-.406.833a12.19 12.19 0 0 0-3.658 0 8.258 8.258 0 0 0-.412-.833.051.051 0 0 0-.052-.025c-1.125.194-2.22.534-3.257 1.011a.041.041 0 0 0-.021.018C.356 6.024-.213 9.047.066 12.032c.001.014.01.028.021.037a13.276 13.276 0 0 0 3.995 2.02.05.05 0 0 0 .056-.019c.308-.42.582-.863.818-1.329a.05.05 0 0 0-.01-.059.051.051 0 0 0-.018-.011 8.875 8.875 0 0 1-1.248-.595.05.05 0 0 1-.02-.066.051.051 0 0 1 .015-.019c.084-.063.168-.129.248-.195a.05.05 0 0 1 .051-.007c2.619 1.196 5.454 1.196 8.041 0a.052.052 0 0 1 .053.007c.08.066.164.132.248.195a.051.051 0 0 1-.004.085 8.254 8.254 0 0 1-1.249.594.05.05 0 0 0-.03.03.052.052 0 0 0 .003.041c.24.465.515.909.817 1.329a.05.05 0 0 0 .056.019 13.235 13.235 0 0 0 4.001-2.02.049.049 0 0 0 .021-.037c.334-3.451-.559-6.449-2.366-9.106a.034.034 0 0 0-.02-.019z" fill="#5865F2" transform="scale(1.5)"/>
   </g>
 </svg>
