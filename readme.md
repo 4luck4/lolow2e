@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | Creative Coder | 3D Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Experiences;Crafting+Interactive+3D+Worlds;Turning+Ideas+Into+Reality;Coffee+%E2%86%92+Code+%E2%86%92+Repeat+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Saya+no+Uta+%F0%9F%8C%B8;Debugging+is+like+being+a+detective;In+a+crime+movie+where+you're+also+the+murderer;There+are+10+types+of+people...;Those+who+understand+binary+and+those+who+don't;404%3A+Motivation+Not+Found" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4luck4&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
