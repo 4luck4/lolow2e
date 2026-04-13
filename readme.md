@@ -19,17 +19,12 @@
 
 <img align="right" alt="Profile" width="300" style="border-radius: 50%;" src="./assets/images/profile.png">
 
-```typescript
-const developer = {
-  name: "3vil",
-  role: "Full-Stack Developer",
-  location: "🌍 Worldwide",
-  focus: ["Web Development", "3D Graphics", "UI/UX"],
-  currentlyLearning: ["WebGPU", "Rust", "AI Integration"],
-  workingOn: "Building the future, one commit at a time",
-  funFact: "I turn coffee into code ☕️"
-};
-```
+**Full-Stack Developer** passionate about creating modern web experiences with cutting-edge technologies.
+
+- 🌍 Location: Worldwide
+- 💻 Focus: Web Development, 3D Graphics, UI/UX
+- 📚 Currently Learning: WebGPU, Rust, AI Integration
+- 🚀 Working On: Building the future, one commit at a time
 
 <br clear="both">
 
