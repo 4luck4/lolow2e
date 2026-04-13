@@ -7,8 +7,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Experiences;Crafting+Interactive+3D+Worlds;Turning+Ideas+Into+Reality;Coffee+%E2%86%92+Code+%E2%86%92+Repeat+%E2%98%95" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lolow2e&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/lolow2e?style=for-the-badge&color=6366f1&labelColor=1c1917&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=4luck4&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/4luck4?style=for-the-badge&color=6366f1&labelColor=1c1917&logo=github" alt="Followers" />
 </p>
 
 </div>
@@ -61,7 +61,7 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lolow2e&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4luck4&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -85,7 +85,7 @@
 <a href="https://discord.com/users/4luck4">
   <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-<a href="https://github.com/lolow2e">
+<a href="https://github.com/4luck4">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -103,11 +103,11 @@
 
 ### Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/lolow2e/lolow2e/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/4luck4/4luck4/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
-**⭐️ From [3vil](https://github.com/lolow2e) with 💜**
+**⭐️ From [4luck4](https://github.com/4luck4) with 💜**
 
 </div> 
 
