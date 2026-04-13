@@ -92,7 +92,7 @@
 <div align="center">
 
 <a href="https://discord.com/users/4luck4">
-  <img src="./assets/discord-card.svg" alt="Discord Profile" />
+  <img src="./assets/discord-card.svg?v=2" alt="Discord Profile" />
 </a>
 
 <br><br>
