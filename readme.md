@@ -28,8 +28,6 @@
 
 <img src="./assets/images/line.png" width="100%">
 
-## Tech Arsenal
-
 <div align="center">
 
 ### Frontend Magic
@@ -61,8 +59,6 @@
 </div>
 
 <img src="./assets/images/line.png" width="100%">
-
-## Featured Projects
 
 <div align="center">
 
