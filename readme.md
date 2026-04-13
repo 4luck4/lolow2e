@@ -15,9 +15,10 @@
 
 ## About Me
 
-<img align="right" alt="Profile" width="300" style="border-radius: 50%;" src="./assets/images/profile.png">
-
-<img src="./assets/images/banner2.png" width="100%" alt="About Me Banner">
+<div align="center">
+  <img alt="Profile" width="300" style="border-radius: 50%;" src="./assets/images/profile.png">
+  <img width="60%" alt="About Me Banner" src="./assets/images/banner2.png">
+</div>
 
 <br clear="both">
 
