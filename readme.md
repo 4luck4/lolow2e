@@ -26,7 +26,7 @@
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/images/line.png" width="100%">
 
 ## Tech Arsenal
 
@@ -54,7 +54,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/images/line.png" width="100%">
 
 ## GitHub Analytics
 
@@ -62,7 +62,7 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4luck4&theme=github-dark&hide_border=true&area=true&bg_color=000000&color=ffffff&line=6366f1&point=6366f1" alt="Contribution Graph" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/images/line.png" width="100%">
 
 ## Featured Projects
 
@@ -74,7 +74,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="./assets/images/line.png" width="100%">
 
 ## Let's Connect
 
