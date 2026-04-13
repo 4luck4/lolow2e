@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%203vil%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="./assets/images/banner.jpg" alt="Banner" />
 
 ### 🚀 Full-Stack Developer | 🎨 Creative Coder | 🌐 3D Enthusiast
 
@@ -96,11 +96,8 @@ const developer = {
 
 <div align="center">
 
-<a href="https://discord.com/users/3vil3">
+<a href="https://discord.com/users/4luck4">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
-</a>
-<a href="https://t.me/Tg_3vil">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 <a href="https://github.com/lolow2e">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -123,8 +120,6 @@ const developer = {
 ![Snake animation](https://raw.githubusercontent.com/lolow2e/lolow2e/output/github-contribution-grid-snake-dark.svg)
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 **⭐️ From [3vil](https://github.com/lolow2e) with 💜**
 
