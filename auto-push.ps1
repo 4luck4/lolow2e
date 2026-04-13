@@ -1,23 +1,25 @@
-# Автоматический коммит и пуш изменений
-Write-Host "🔄 Проверка изменений..." -ForegroundColor Cyan
+# Auto commit and push changes
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 
-# Добавить все изменения
+Write-Host "Checking for changes..." -ForegroundColor Cyan
+
+# Add all changes
 git add .
 
-# Проверить, есть ли изменения
+# Check if there are changes
 $status = git status --porcelain
 if ($status) {
-    # Создать коммит с текущей датой и временем
+    # Create commit with current date and time
     $commitMessage = "Auto update: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
     git commit -m $commitMessage
     
-    Write-Host "✅ Коммит создан: $commitMessage" -ForegroundColor Green
+    Write-Host "Commit created: $commitMessage" -ForegroundColor Green
     
-    # Пушить изменения
-    Write-Host "📤 Отправка на GitHub..." -ForegroundColor Cyan
+    # Push changes
+    Write-Host "Pushing to GitHub..." -ForegroundColor Cyan
     git push
     
-    Write-Host "✅ Изменения отправлены на GitHub!" -ForegroundColor Green
+    Write-Host "Changes pushed to GitHub successfully!" -ForegroundColor Green
 } else {
-    Write-Host "ℹ️  Нет изменений для коммита" -ForegroundColor Yellow
+    Write-Host "No changes to commit" -ForegroundColor Yellow
 }
