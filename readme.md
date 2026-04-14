@@ -1,23 +1,8 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="./assets/images/profile.gif" width="150" style="border-radius: 50%;" alt="Profile" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Full--Stack-Developer-a45939?style=for-the-badge&labelColor=412521" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Bot-Developer-eccf9f?style=for-the-badge&labelColor=a45939&logoColor=412521" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Creative-Coder-412521?style=for-the-badge&labelColor=eccf9f&logoColor=412521" />
-</td>
-</tr>
-</table>
+<img src="./assets/profile-card.svg?v=1" width="90%" alt="Profile Card" />
 
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a45939&center=true&vCenter=true&random=false&width=600&lines=Saya+no+Uta;Debugging+is+like+being+a+detective;In+a+crime+movie+where+you're+also+the+murderer;There+are+10+types+of+people...;Those+who+understand+binary+and+those+who+don't;404%3A+Motivation+Not+Found" alt="Typing SVG" />
 
