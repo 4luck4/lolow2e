@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/images/banner.png" alt="Banner" />
+<img width="100%" src="./assets/images/banner.jpg" alt="Banner" />
 
 ### Full-Stack Developer | Creative Coder | 3D Enthusiast
 
@@ -16,8 +16,8 @@
 ## About Me
 
 <div align="center">
-  <img width="60%" alt="About Me Banner" src="./assets/images/banner2.png">
-  <img alt="Profile" width="300" style="border-radius: 50%;" src="./assets/images/profile.png">
+  <h3>Full-Stack Developer passionate about creating interactive web experiences</h3>
+  <img alt="Profile" width="300" style="border-radius: 50%;" src="./assets/images/profile.gif">
 </div>
 
 <br clear="both">
