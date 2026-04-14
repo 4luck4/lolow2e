@@ -8,7 +8,7 @@
     
     <!-- Snowflake icon definition -->
     <g id="snowflake">
-      <path d="m16 16 13.243 12.072a4 4 0 0 0 5.457-.062L63 1 35.99 29.3a4 4 0 0 0-.062 5.456L48 48 34.757 35.928a4 4 0 0 0-5.456.062L1 63l27.01-28.3a4 4 0 0 0 .062-5.456z" transform="translate(-32, -32) scale(0.5)"/>
+      <path d="m16 16 13.243 12.072a4 4 0 0 0 5.457-.062L63 1 35.99 29.3a4 4 0 0 0-.062 5.456L48 48 34.757 35.928a4 4 0 0 0-5.456.062L1 63l27.01-28.3a4 4 0 0 0 .062-5.456z" transform="translate(-32, -32) scale(0.25)"/>
     </g>
   </defs>
   
@@ -90,5 +90,101 @@
   <use href="#snowflake" x="90%" y="24" fill="#a45939" opacity="0.7">
     <animate attributeName="y" from="-20" to="80" dur="3.6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0.7;0.7;0" dur="3.6s" repeatCount="indefinite"/>
+  </use>
+  
+  <!-- Extra snowflakes -->
+  <use href="#snowflake" x="8%" y="12" fill="#412521" opacity="0.7">
+    <animate attributeName="y" from="-20" to="80" dur="4.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.7;0.7;0" dur="4.7s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="18%" y="8" fill="#eccf9f" opacity="0.8">
+    <animate attributeName="y" from="-20" to="80" dur="3.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="3.4s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="28%" y="18" fill="#a45939" opacity="0.6">
+    <animate attributeName="y" from="-20" to="80" dur="4.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0.6;0" dur="4.9s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="38%" y="6" fill="#eccf9f" opacity="0.9">
+    <animate attributeName="y" from="-20" to="80" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" dur="3.2s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="48%" y="16" fill="#412521" opacity="0.7">
+    <animate attributeName="y" from="-20" to="80" dur="4.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.7;0.7;0" dur="4.6s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="58%" y="10" fill="#a45939" opacity="0.8">
+    <animate attributeName="y" from="-20" to="80" dur="3.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="3.1s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="68%" y="20" fill="#eccf9f" opacity="0.6">
+    <animate attributeName="y" from="-20" to="80" dur="5.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0.6;0" dur="5.2s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="78%" y="14" fill="#412521" opacity="0.9">
+    <animate attributeName="y" from="-20" to="80" dur="3.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" dur="3.9s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="88%" y="7" fill="#a45939" opacity="0.7">
+    <animate attributeName="y" from="-20" to="80" dur="4.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.7;0.7;0" dur="4.4s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="98%" y="19" fill="#eccf9f" opacity="0.8">
+    <animate attributeName="y" from="-20" to="80" dur="3.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="3.7s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="12%" y="11" fill="#a45939" opacity="0.6">
+    <animate attributeName="y" from="-20" to="80" dur="5.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0.6;0" dur="5.1s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="22%" y="23" fill="#412521" opacity="0.8">
+    <animate attributeName="y" from="-20" to="80" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="3.5s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="32%" y="13" fill="#eccf9f" opacity="0.7">
+    <animate attributeName="y" from="-20" to="80" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.7;0.7;0" dur="4.8s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="42%" y="21" fill="#a45939" opacity="0.9">
+    <animate attributeName="y" from="-20" to="80" dur="3.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" dur="3.3s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="52%" y="9" fill="#eccf9f" opacity="0.6">
+    <animate attributeName="y" from="-20" to="80" dur="5.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0.6;0" dur="5.3s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="62%" y="17" fill="#412521" opacity="0.8">
+    <animate attributeName="y" from="-20" to="80" dur="3.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0.8;0" dur="3.8s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="72%" y="11" fill="#a45939" opacity="0.7">
+    <animate attributeName="y" from="-20" to="80" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.7;0.7;0" dur="4.5s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="82%" y="25" fill="#eccf9f" opacity="0.9">
+    <animate attributeName="y" from="-20" to="80" dur="3.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" dur="3.4s" repeatCount="indefinite"/>
+  </use>
+  
+  <use href="#snowflake" x="92%" y="15" fill="#412521" opacity="0.6">
+    <animate attributeName="y" from="-20" to="80" dur="4.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0.6;0" dur="4.9s" repeatCount="indefinite"/>
   </use>
 </svg>
