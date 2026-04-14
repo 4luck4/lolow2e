@@ -19,7 +19,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a45939&center=true&vCenter=true&random=false&width=600&lines=Saya+no+Uta;Debugging+is+like+being+a+detective;In+a+crime+movie+where+you're+also+the+murderer;There+are+10+types+of+people...;Those+who+understand+binary+and+those+who+don't;404%3A+Motivation+Not+Found" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a45939&center=true&vCenter=true&random=false&width=600&lines=Chill+Developer;404%3A+Motivation+Not+Found" alt="Typing SVG" />
 
 <br/>
 
