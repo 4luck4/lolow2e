@@ -12,8 +12,19 @@
     </g>
   </defs>
   
-  <!-- Decorative line -->
-  <rect x="0" y="38" width="100%" height="4" fill="url(#lineGradient)" opacity="0.6"/>
+  <!-- Decorative line with wave effect -->
+  <path d="M 0 40 Q 25 30, 50 40 T 100 40 T 150 40 T 200 40 T 250 40 T 300 40 T 350 40 T 400 40 T 450 40 T 500 40 T 550 40 T 600 40 T 650 40 T 700 40 T 750 40 T 800 40 T 850 40 T 900 40 T 950 40 T 1000 40 T 1050 40 T 1100 40 T 1150 40 T 1200 40 T 1250 40 T 1300 40 T 1350 40 T 1400 40 T 1450 40 T 1500 40" 
+        stroke="url(#lineGradient)" 
+        stroke-width="4" 
+        fill="none" 
+        opacity="0.6">
+    <animate attributeName="d" 
+             values="M 0 40 Q 25 30, 50 40 T 100 40 T 150 40 T 200 40 T 250 40 T 300 40 T 350 40 T 400 40 T 450 40 T 500 40 T 550 40 T 600 40 T 650 40 T 700 40 T 750 40 T 800 40 T 850 40 T 900 40 T 950 40 T 1000 40 T 1050 40 T 1100 40 T 1150 40 T 1200 40 T 1250 40 T 1300 40 T 1350 40 T 1400 40 T 1450 40 T 1500 40;
+                     M 0 40 Q 25 50, 50 40 T 100 40 T 150 40 T 200 40 T 250 40 T 300 40 T 350 40 T 400 40 T 450 40 T 500 40 T 550 40 T 600 40 T 650 40 T 700 40 T 750 40 T 800 40 T 850 40 T 900 40 T 950 40 T 1000 40 T 1050 40 T 1100 40 T 1150 40 T 1200 40 T 1250 40 T 1300 40 T 1350 40 T 1400 40 T 1450 40 T 1500 40;
+                     M 0 40 Q 25 30, 50 40 T 100 40 T 150 40 T 200 40 T 250 40 T 300 40 T 350 40 T 400 40 T 450 40 T 500 40 T 550 40 T 600 40 T 650 40 T 700 40 T 750 40 T 800 40 T 850 40 T 900 40 T 950 40 T 1000 40 T 1050 40 T 1100 40 T 1150 40 T 1200 40 T 1250 40 T 1300 40 T 1350 40 T 1400 40 T 1450 40 T 1500 40" 
+             dur="3s" 
+             repeatCount="indefinite"/>
+  </path>
   
   <!-- Snowflakes -->
   <use href="#snowflake" x="5%" y="10" fill="#eccf9f" opacity="0.8">
