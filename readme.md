@@ -2,9 +2,27 @@
 
 <img width="100%" src="./assets/images/banner.png" alt="Banner" />
 
-### Full-Stack Developer | Creative Coder | 3D Enthusiast
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Saya+no+Uta+%F0%9F%8C%B8;Debugging+is+like+being+a+detective;In+a+crime+movie+where+you're+also+the+murderer;There+are+10+types+of+people...;Those+who+understand+binary+and+those+who+don't;404%3A+Motivation+Not+Found" alt="Typing SVG" />
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Full--Stack-Developer-a45939?style=for-the-badge&labelColor=412521" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Creative-Coder-eccf9f?style=for-the-badge&labelColor=a45939&logoColor=412521" />
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/3D-Enthusiast-412521?style=for-the-badge&labelColor=eccf9f&logoColor=412521" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a45939&center=true&vCenter=true&random=false&width=600&lines=Saya+no+Uta+%F0%9F%8C%B8;Debugging+is+like+being+a+detective;In+a+crime+movie+where+you're+also+the+murderer;There+are+10+types+of+people...;Those+who+understand+binary+and+those+who+don't;404%3A+Motivation+Not+Found" alt="Typing SVG" />
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4luck4&color=412521&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
