@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<img src="./assets/images/line.png" width="100%">
+<img src="./assets/snow-line.svg" width="100%">
 
 <div align="center">
 
