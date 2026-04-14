@@ -1,9 +1,5 @@
 <div align="center">
 
-<img width="100%" src="./assets/images/banner.png" alt="Banner" />
-
-<br/>
-
 <table>
 <tr>
 <td align="center" width="33%">
@@ -34,12 +30,12 @@
 ## About Me
 
 <div align="center">
-  <img src="./assets/images/code-window.png" width="90%" alt="About Me Code Window" />
+  <img src="./assets/images/code-window.png?v=1" width="90%" alt="About Me Code Window" />
 </div>
 
 <br clear="both">
 
-<img src="./assets/snow-line.svg?v=1" width="100%">
+<img src="./assets/snow-line.svg?v=2" width="100%">
 
 <div align="center">
 
@@ -86,5 +82,11 @@
   <img src="https://img.shields.io/badge/GitHub-a45939?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="./assets/images/banner.png?v=1" alt="Banner" />
 </div> 
 
