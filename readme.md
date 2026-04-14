@@ -34,7 +34,7 @@
 ## About Me
 
 <div align="center">
-  <img src="./assets/code-window.svg?v=3" width="90%" alt="About Me Code Window" />
+  <img src="./assets/code-window.svg?v=4" width="90%" alt="About Me Code Window" />
 </div>
 
 <br clear="both">
