@@ -36,20 +36,20 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-000000?style=for-the-badge&logo=webgl&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-412521?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-eccf9f?style=for-the-badge&logo=next.js&logoColor=412521)
+![TypeScript](https://img.shields.io/badge/TypeScript-a45939?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-412521?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-eccf9f?style=for-the-badge&logo=tailwind-css&logoColor=412521)
+![Redux](https://img.shields.io/badge/Redux-a45939?style=for-the-badge&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-412521?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-eccf9f?style=for-the-badge&logo=three.js&logoColor=412521)
+![WebGL](https://img.shields.io/badge/WebGL-a45939?style=for-the-badge&logo=webgl&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-412521?style=for-the-badge&logo=greensock&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-eccf9f?style=for-the-badge&logo=nodedotjs&logoColor=412521)
+![Express](https://img.shields.io/badge/Express-a45939?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-412521?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eccf9f?style=for-the-badge&logo=postgresql&logoColor=412521)
 
 </div>
 
