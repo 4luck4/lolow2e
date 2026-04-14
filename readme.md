@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/images/banner.jpg" alt="Banner" />
+<img width="100%" src="./assets/images/banner.png" alt="Banner" />
 
 ### Full-Stack Developer | Creative Coder | 3D Enthusiast
 
