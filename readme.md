@@ -58,7 +58,7 @@
 <img src="./assets/images/line.png" width="100%">
 
 <div align="center">
-  <img width="100%" style="border-radius: 15px;" src="https://github-readme-activity-graph.vercel.app/graph?username=4luck4&theme=github-dark&hide_border=true&area=true&bg_color=412521&color=eccf9f&line=a45939&point=eccf9f&radius=16" alt="Contribution Graph" />
+  <img width="100%" style="border: 2px solid #412521; border-radius: 15px;" src="https://github-readme-activity-graph.vercel.app/graph?username=4luck4&theme=github-dark&hide_border=false&area=true&bg_color=2d2d2d&color=eccf9f&line=a45939&point=eccf9f&radius=16&custom_title=Contribution%20Activity&title_color=eccf9f" alt="Contribution Graph" />
 </div>
 
 <img src="./assets/images/line.png" width="100%">
